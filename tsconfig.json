@@ -30,7 +30,12 @@
   "include": [
     "src/**/*.ts",
     "src/**/*.tsx",
-    "src/**/*.vue",
+    "src/index/**/*.ts",
+    "src/index/**/*.tsx",
+    "src/index/**/*.vue",
+    "src/admin/**/*.ts",
+    "src/admin/**/*.tsx",
+    "src/admin/**/*.vue",
     "tests/**/*.ts",
     "tests/**/*.tsx"
   ],
