@@ -4,6 +4,10 @@
 ```
 npm install
 ```
+## Project set .d.ts files
+```
+npm run move
+```
 
 ### Compiles and hot-reloads for development
 ```
