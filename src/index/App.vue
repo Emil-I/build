@@ -9,10 +9,6 @@
       </router-link>
     </div>
 
-    <div>
-      <md-button class="md-primary md-raised" @click="showDialog = true">Show Dialog</md-button>
-    </div>
-
     <router-view/>
   </div>
 </template>
